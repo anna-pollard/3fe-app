@@ -2,7 +2,7 @@ console.log ("hello from the script page")
 
 Vue.component('mynavbar', {
     template: `<div class="mynavbar">
-        <a href= "index.html"> home</a>
+        <a href= "homepage.html"> home</a>
         <a href="secondpage.html"> workshops</a> 
         <a href="">guides</a> 
         <a href="">about</a>
